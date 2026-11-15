@@ -19,15 +19,21 @@ The website uses Bootstrap components to create a structured layout and improve 
 ✨ Features
 
 Responsive Navigation Bar: Easy navigation between Home, About, Courses, and Contact sections.
+
 Image Carousel: Displays campus-related images using Bootstrap Carousel.
+
 About Section: Provides information about the college environment, personal growth, mentorship, and experiential learning.
+
 Courses Section: Showcases three academic disciplines:
 - Civil Engineering
 - Information Technology
 - Electrical Engineering
 Contact Section: Includes input fields for name, email address, and message.
+
 Login Interface: Provides an email and password login UI.
+
 Social Media Integration UI: Displays social media icons for different platforms.
+
 Footer Section: Contains contact information and useful navigation links.
 
 🛠️ Technologies Used
@@ -39,24 +45,37 @@ Bootstrap 5
 💡 Learning Outcomes
 
 Through this project, I gained practical experience in:
+
 Structuring web pages using semantic HTML.
+
 Styling web pages using CSS.
+
 Implementing responsive layouts with Bootstrap 5.
+
 Working with Bootstrap components such as Navbar, Carousel, and Cards.
+
 Integrating external fonts, icons, and images.
+
 Organizing website content into multiple sections.
+
 Designing forms and user interface components.
 
 🔮 Future Enhancements
 
 Implement functional user authentication.
+
 Connect the contact form to a backend service.
+
 Add student registration functionality.
+
 Include campus announcements and event updates.
+
 Add a dedicated student dashboard.
+
 Improve accessibility and form validation.
 
 👨‍💻 Author
 
 Shireesha
+
 GitHub: https://github.com/SireeC
